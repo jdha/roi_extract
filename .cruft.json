@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/ecmwf-projects/cookiecutter-conda-package",
+  "commit": "01bc29f78f9d80a10321ee12f489a14da10133ac",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "roi_extract",
+      "project_slug": "roi_extract",
+      "project_short_description": "Utilies to extract summary statistics from gridded datat using shape files.",
+      "copyright_holder": "European Union",
+      "copyright_year": "2023",
+      "mypy_strict": "True",
+      "integration_tests": "True",
+      "_template": "https://github.com/ecmwf-projects/cookiecutter-conda-package"
+    }
+  },
+  "directory": null
+}
