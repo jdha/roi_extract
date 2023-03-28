@@ -1,16 +1,7 @@
 [build-system]
 requires = [
   "setuptools>=45",
-  "setuptools_scm[toml]>=6.2",
-  "geopandas",
-  "pandas",
-  "numpy",
-  "matplotlib",
-  "cartopy",
-  "dask",
-  "xarray",
-  "shapely",
-  "xgcm"
+  "setuptools_scm[toml]>=6.2"
 ]
 
 [project]
