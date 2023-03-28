@@ -10,8 +10,6 @@ requires = [
   "dask",
   "xarray",
   "shapely",
-  "typing",
-  "mpl_toolkits",
   "xgcm"
 ]
 
