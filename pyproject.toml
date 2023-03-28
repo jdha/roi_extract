@@ -1,6 +1,6 @@
 [build-system]
 requires = [
-  "setuptools>=45", 
+  "setuptools>=45",
   "setuptools_scm[toml]>=6.2",
   "geopandas",
   "pandas",
@@ -9,14 +9,12 @@ requires = [
   "cartopy",
   "dask",
   "xarray",
-  "datetime",
-  "time",
   "shapely",
   "typing",
   "mpl_toolkits",
   "xgcm"
 ]
-            
+
 [project]
 classifiers = [
   "Development Status :: 2 - Pre-Alpha",
