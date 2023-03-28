@@ -9,7 +9,7 @@ requires = ["setuptools>=45",
             "dask",
             "xarray",
             "datetime",
-            "time"
+            "time",
             "shapely",
             "typing"
             "mpl_toolkits",
