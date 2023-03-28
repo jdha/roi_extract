@@ -1,19 +1,21 @@
 [build-system]
-requires = ["setuptools>=45", 
-            "setuptools_scm[toml]>=6.2",
-            "geopandas",
-            "pandas",
-            "numpy",
-            "matplotlib",
-            "cartopy",
-            "dask",
-            "xarray",
-            "datetime",
-            "time",
-            "shapely",
-            "typing",
-            "mpl_toolkits",
-            "xgcm"]
+requires = [
+  "setuptools>=45", 
+  "setuptools_scm[toml]>=6.2",
+  "geopandas",
+  "pandas",
+  "numpy",
+  "matplotlib",
+  "cartopy",
+  "dask",
+  "xarray",
+  "datetime",
+  "time",
+  "shapely",
+  "typing",
+  "mpl_toolkits",
+  "xgcm"
+]
             
 [project]
 classifiers = [
