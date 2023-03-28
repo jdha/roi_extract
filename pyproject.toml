@@ -11,7 +11,7 @@ requires = ["setuptools>=45",
             "datetime",
             "time",
             "shapely",
-            "typing"
+            "typing",
             "mpl_toolkits",
             "xgcm"]
             
