@@ -1,4 +1,4 @@
-"""Utilies to extract summary statistics from gridded datat using shape files.."""
+"""Utillity to extract summary statistics from gridded data using shape files."""
 
 # Copyright 2023, European Union.
 #
